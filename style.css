@@ -1,10 +1,13 @@
-#banner-image:{
+div.jumbotron.banner-image:{
 				padding-top: 75px;
 				padding-bottom: 50px;
 				text-align: center;
 				color: #f8f8f8;
-				background: url(../images/intro-bg_1.jpg) no-repeat center center;
+				background: #fff url(../images/intro-bg_1.jpg) no-repeat center center;
+				width: 100%;
+    			height: 100%;
 				background-size: cover;
+				overflow: hidden;
     			}
 #banner_content:{
 					position: relative;
