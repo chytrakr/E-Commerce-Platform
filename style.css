@@ -1,13 +1,13 @@
 
 
 #banner-image:{
-				padding-top: 75px; 
-				margin-bottom: 50px; 
-				text-align: center; 
-				color: #f8f8f8; 
-				background: url(images/back_ground.jpg) no-repeat;
-				background-position: center center; 
-				background-size: cover;
+		padding-top: 75px; 
+		margin-bottom: 50px; 
+		text-align: center; 
+		color: #f8f8f8; 
+		background: url(images/back_ground.jpg) no-repeat;
+		background-position: center center; 
+		background-size: cover;
                 }
                 body {
    background: #FFF;
@@ -15,12 +15,12 @@
 }
 #banner_content:{
                 position: relative;
-				padding-top: 6%;
-				padding-bottom: 6%;
-				margin-top: 12%;
-				margin-bottom: 12%;
-				background-color: rgba(0, 0, 0, 0.7);
-				max-width: 660px;
+		padding-top: 6%;
+		padding-bottom: 6%;
+		margin-top: 12%;
+		margin-bottom: 12%;
+		background-color: rgba(0, 0, 0, 0.7);
+		max-width: 660px;
                 }
 footer{
         position:fixed;
